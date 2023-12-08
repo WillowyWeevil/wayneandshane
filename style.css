@@ -1,0 +1,20 @@
+h1{
+    font-family:Mate,serif;
+    color:rgba(219, 215, 215, 0.842)
+}
+
+.top-counter{
+    background-color:#1f2224;
+    width:auto;
+    display:flex;
+    position:relative;
+    padding-top:50px;
+    text-align:center;
+    justify-content: center;
+    margin:0;
+    padding-bottom: 50px;
+    margin-right:-20px;
+    margin-top:-20px;
+    margin-left:-20px;
+    
+}
